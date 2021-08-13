@@ -1,0 +1,4 @@
+#Fri Aug 13 19:18:08 BRT 2021
+base.0=E\:\\QI School\\Desenvolvimento de Aplicativos II\\Projetos\\Projeto4\\agenda_contato\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
